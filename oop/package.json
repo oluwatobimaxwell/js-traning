@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "chai": "^4.3.10",
-    "selenium-webdriver": "^4.15.0"
-  }
-}
